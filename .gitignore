@@ -1,3 +1,9 @@
+#DEEP LEARNING MODELS
+*.pth
+
+# Hyperparameter tuning plots
+hyperparameter_tuning/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
