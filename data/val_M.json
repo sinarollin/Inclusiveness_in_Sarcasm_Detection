@@ -1,161 +1,77 @@
 {
-    "1_2837": {
-        "utterance": "- Chocolate? - No, I don't want any chocolate!",
+    "2_446": {
+        "utterance": "I'd love to show ya, but I just tucked her in.",
+        "speaker": "JOEY",
+        "context": [
+            "Hi Joey.",
+            "Hey! How you doin'?",
+            "He has the most amazing Porsche under there!"
+        ],
+        "show": "FRIENDS",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_11609": {
+        "utterance": "I've, uh, created some other user accounts so I can post positive comments about their paper.",
+        "speaker": "RAJ",
+        "context": [
+            "Do you really want him to write back?",
+            "Yeah, I do. No matter how he responds, I am going to destroy him with a picture of a bored cat saying, \"Oh, really?\"",
+            "Me-wow."
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_S11E07_265": {
+        "utterance": "Sheldon, that was pretty rude.",
         "speaker": "LEONARD",
         "context": [
-            "You'll never guess who they got to replace you at work.",
-            "Okay, I know what you're doing.",
-            "Really?",
-            "Yes, you're using chocolates as positive reinforcement for what you consider correct behaviour.",
-            "Very Good."
+            "Are you embarrassed of me?",
+            "Oh, no, no, no, not you.",
+            "No, just the work that you've devoted your entire life to.",
+            "If you're ashamed to be working with me,",
+            "then I don't want to work with you."
         ],
         "show": "BBT",
         "sarcasm": true,
         "gender": "M"
     },
-    "1_S12E07_005": {
-        "utterance": "I'm gonna hook up the garden hose, so it has running water.",
-        "speaker": "HOWARD",
-        "context": [
-            "Oh, this is amazing.",
-            "I wish I had a playhouse like this when I was a kid.",
-            "Really? You never had a playhouse?",
-            "No. I mean, my dad did buy the house next door",
-            "for us to play in."
-        ],
-        "show": "BBT",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "2_536": {
-        "utterance": "What a baby.",
-        "speaker": "CHANDLER",
-        "context": [
-            "I mean, you two are-are my\u2026 I mean, I'm lucky to have just one good",
-            "Thanks man.",
-            "I gotta go check something over here."
-        ],
-        "show": "FRIENDS",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "2_570": {
-        "utterance": "Oh my god, where are all the men?",
-        "speaker": "CHANDLER",
-        "context": [
-            "Hey Ross I was wondering."
-        ],
-        "show": "FRIENDS",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "2_35": {
-        "utterance": "Oh no don\u00d5t go. I have scared you. I have said too much. I am hopeless and awkward and desperate for love.",
-        "speaker": "CHANDLER",
-        "context": [
-            "I am not divorced yet. Chandler, you know you just invited me over here for pasta and all of a sudden you are talking about moving in together. I wasn't even that hungry. Its getting really late and I should just umm."
-        ],
-        "show": "FRIENDS",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "1_S09E05_213": {
-        "utterance": "Why? You never thought you'd end up in a relationship, and then you met Amy. Maybe there's someone else out there for you.",
+    "1_S10E04_105": {
+        "utterance": "I'm the son of a gynecologist. I could be helpful.",
         "speaker": "RAJ",
         "context": [
-            "Sheldon, instead of focusing on Amy dating other guys,",
-            "maybe you should start thinking about dating another girl.",
-            "That's ridiculous."
+            "I have to say, I am happy with your ob-gyn.",
+            "Cool. 'Cause she says you're doing a great job as",
+            "\"weird friend who doesn't have to be at every appointment.\""
         ],
         "show": "BBT",
         "sarcasm": true,
         "gender": "M"
     },
-    "1_S09E02_424": {
-        "utterance": "She watched it.",
-        "speaker": "SHELDON",
+    "2_231": {
+        "utterance": "No, no, no, it's flattery.",
+        "speaker": "ROSS",
         "context": [
-            "I don't know what you were thinking,",
-            "but take the video down now!"
+            "Aren't you with that girl over there?",
+            "Well, yeah, kinda. Um, but that's okay, see we have an understanding, um, see we each have this list of five famous people, so I'm allowed to sleep with you."
         ],
-        "show": "BBT",
+        "show": "FRIENDS",
         "sarcasm": true,
         "gender": "M"
     },
-    "1_5786": {
-        "utterance": "All right, so technically it's not a dinner date. I suppose you could call it a, uh, dinfast date. But if you did, you'd open yourself to peer-based mocking, such as, \"Hey, Leonard, how was your dinfast with Priya last night?\"",
-        "speaker": "SHELDON",
-        "context": [
-            "What are you doing?",
-            "Oh, uh, Priya's calling in a few minutes on Skype, and we are gonna have a dinner date.",
-            "It's 8:00 in the morning in Mumbai. \r\nHow can she have dinner?",
-            "Fine, whatever. \r\nPriya will be having breakfast."
-        ],
-        "show": "BBT",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "1_3204": {
-        "utterance": "Right. That was so good! Sweety and meaty at the same time.",
-        "speaker": "RAJ",
-        "context": [
-            "Anything?",
-            "No. that was the last pudding cup.",
-            "No! What about slim jims",
-            "Thats what he used to eat his pudding, remember?"
-        ],
-        "show": "BBT",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "1_162": {
-        "utterance": "Sheldon, if you were a robot, and I knew and you didn't...",
+    "1_S10E10_090": {
+        "utterance": "Hang on, maybe it's not the worst idea. I mean, he did do a good job taking care of my mother.",
         "speaker": "HOWARD",
         "context": [
-            "On the other hand, no arousal.",
-            "None?",
-            "None.",
-            "Thank you for your time.",
-            "Thank you.",
-            "None at all?"
-        ],
-        "show": "BBT",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "1_S09E01_439": {
-        "utterance": "I don't know. Sounds pretty bad. Penny's back in her apartment all by herself.",
-        "speaker": "HOWARD",
-        "context": [
-            "What happened? They just got married.",
-            "(sighs) I don't know.",
-            "It's a mess. They had a huge fight in Vegas.",
-            "Think they'll break up?"
-        ],
-        "show": "BBT",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "1_12083": {
-        "utterance": "Oh, just put it in your mouth and pop it like a zit.",
-        "speaker": "HOWARD",
-        "context": [
-            "What's going on in here?",
-            "I am making molecular cocktails. This sphere is actually a cosmopolitan.",
-            "How do you drink it?"
-        ],
-        "show": "BBT",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "1_S11E08_142": {
-        "utterance": "Great. I want answers and he'd better give them to us.",
-        "speaker": "HOWARD",
-        "context": [
-            "Well, he better not be working on our guidance system.",
-            "That was my idea.",
-            "Why don't we call Colonel Williams",
-            "and find out what's going on."
+            "can I live here?",
+            "Stuart, we'd love to help you out,",
+            "but this a bad time; we're about to have a baby.",
+            "Or is that why this is a great time?",
+            "Think about it-- when that baby comes,",
+            "you're gonna need all the help you can get.",
+            "Thank you,",
+            "but I'm not really sure."
         ],
         "show": "BBT",
         "sarcasm": true,
@@ -176,138 +92,39 @@
         "sarcasm": true,
         "gender": "M"
     },
-    "3_S06E02_152": {
-        "utterance": "You're new here, so I'll forgive the patronizing tone.",
-        "speaker": "GILFOYLE",
-        "context": [
-            "Richard's just tasked me with streamlining productivity",
-            "and balancing headcount.",
-            "Can you explain to me why you have",
-            "no one working under you?",
-            "It just seems odd considering that the agile board is showing",
-            "that you have a massive backlog."
-        ],
-        "show": "SV",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "2_353": {
-        "utterance": "Nothing. It's just old and dingy, that's all.",
-        "speaker": "JOEY",
-        "context": [
-            "Oh Monica, listen, I ah, I saw down at the hardware store, they got those designer tiles on sale. If you ever want to redo the bathroom floor.",
-            "Why, what's wrong with my bathroom floor?"
-        ],
-        "show": "FRIENDS",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "2_203": {
-        "utterance": "It's not funny!",
-        "speaker": "ROSS",
-        "context": [
-            "That only is not funny, it's physically impossible! Okay? Depending    on the species I'd have to have a six foot long..."
-        ],
-        "show": "FRIENDS",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "1_S10E03_311": {
-        "utterance": "But let's say you do. And don't say you do, because you don't! Now, wouldn't you think that throwing yourself into your work would be the best way to deal with it?",
+    "1_3476": {
+        "utterance": "Don't you think looking for a new city to live in is a bit of an overreaction?",
         "speaker": "LEONARD",
         "context": [
-            "Uh, you're really going to have caffeine in front of me",
-            "when I'm trying to get my life back on track?",
-            "Uh, okay, let's pretend you do have a problem.",
-            "I do. You don't.",
-            "Yeah, but I do. No, you don't!"
+            "My new computer came with Windows 7.",
+            "Windows 7 is much more user friendly than Windows Vista.",
+            "I don't like that."
         ],
         "show": "BBT",
         "sarcasm": true,
         "gender": "M"
     },
-    "1_3840": {
-        "utterance": "I read a study online that walking after a meal not only aids in digestion, but increases serotonin, and you know me, if there's one thing I like more than a refreshing beverage, it's serotonin. Bye-bye.",
+    "1_S09E04_267": {
+        "utterance": "No, of course not. I-I just feel bad. Well, so do I,",
+        "speaker": "LEONARD",
+        "context": [
+            "What else can you do? Move back in with him?"
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_S10E04_043": {
+        "utterance": "I don't know. What if living together kills the romance?",
         "speaker": "SHELDON",
         "context": [
-            "Ah\u2026I do so love beverages.",
-            "Now I think I'll take my after-dinner walk.",
-            "Since when do you take after-dinner walks?",
-            "Yeah, since when do you take walks?"
+            "Cohabitation with my girlfriend?",
+            "That's a great deal to process. Mm.",
+            "It's only for five weeks.",
+            "Yeah, and we'll be right across the hall.",
+            "What do you think?"
         ],
         "show": "BBT",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "2_540": {
-        "utterance": "Okay?",
-        "speaker": "JOEY",
-        "context": [
-            "I don't know. But hey, I know we can decide. Okay, I'm gonna ask you questions and you answer real quick."
-        ],
-        "show": "FRIENDS",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "2_134": {
-        "utterance": "Paper cut!",
-        "speaker": "CHANDLER",
-        "context": [
-            "I can't figure this out! It's so hard! Should I get her a  Tiffany cut or a Princess cut or a,ah-ah!"
-        ],
-        "show": "FRIENDS",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "1_467": {
-        "utterance": "That woman looks exactly like the pictures of Princess Panchali in the book. How often does one see a beloved fictional character come to life?",
-        "speaker": "SHELDON",
-        "context": [
-            "When I was a little boy and got sick, which was most of the time, my mother would read it to me.",
-            "It's about an Indian princess who befriends a monkey who was mocked by all the other monkeys because he was different.",
-            "For some reason, I related to it quite strongly.",
-            "I know the reason.",
-            "We all know the reason.",
-            "Sheldon, what are you getting at?"
-        ],
-        "show": "BBT",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "1_2423": {
-        "utterance": "Provided he has already read and is familiar with the reestablishment of the DC multiverse.",
-        "speaker": "SHELDON",
-        "context": [
-            "Everybody's staring at me.",
-            "Don't worry, they're more scared of you than you are of them.",
-            "Unlikely.",
-            "Here, what about this one for my nephew?",
-            "A superb choice.",
-            "Oh, great."
-        ],
-        "show": "BBT",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "2_125": {
-        "utterance": "I mean if you hadn't initiated it I-I-I know I would've.",
-        "speaker": "ROSS",
-        "context": [
-            "Yeah. Listen about that, the whole uh, who came on to who thing really doesn't matter. I mean, I think it would've happened either way."
-        ],
-        "show": "FRIENDS",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "2_20": {
-        "utterance": "My duties?  All right.",
-        "speaker": "CHANDLER",
-        "context": [
-            "You must've had your hands full",
-            "That I did. That I did.",
-            "So let's talk a little bit about your duties."
-        ],
-        "show": "FRIENDS",
         "sarcasm": true,
         "gender": "M"
     },
@@ -323,278 +140,552 @@
         "sarcasm": true,
         "gender": "M"
     },
-    "1_S11E07_026": {
-        "utterance": "It does, but it's still geology.",
-        "speaker": "SHELDON",
-        "context": [
-            "Sheldon, I've got these",
-            "four-billion-year-old meteorites.",
-            "I thought maybe they'd show signs of neutrino interactions.",
-            "I could really use someone like you to help me with the math.",
-            "Oh, so they would act as natural dark matter detectors.",
-            "That sounds interesting."
-        ],
-        "show": "BBT",
-        "sarcasm": true,
-        "gender": "M"
-    },
-    "2_463": {
-        "utterance": "Ok!",
+    "2_531": {
+        "utterance": "Yeah well that's because uh .. I stayed in my room. Yeah, you don't want to look in my hamper.",
         "speaker": "JOEY",
         "context": [
-            "You know? Forget it!",
-            "No-no-no-no, no! Who, who were you talking about?",
-            "No, I-I-I-I don't, I actually don't know"
+            "Yeah, I mean I was up sick all night.",
+            "Yeah me too, all night. Really?!",
+            "How come we didn't cross paths?"
         ],
         "show": "FRIENDS",
         "sarcasm": true,
         "gender": "M"
     },
-    "1_S09E20_179": {
-        "utterance": "No. You'll wish it would kill you.",
+    "1_7490": {
+        "utterance": "It's okay, you know, we space cowboys don't do what we do for glory and fame. We leave that to your rock stars and your athletes and your Howie Mandels.",
+        "speaker": "HOWARD",
+        "context": [
+            "Yeah, well, Bernadette's a little under the weather and my mom's kind of under my dentist.",
+            "Wait, your, your mother is sleeping with your dentist?",
+            "Former dentist.\r\nI need a new one now that I know where his hands have been.",
+            "So you're wandering all around by yourself?\r\nThat's not the kind of hero's welcome an astronaut should come home to."
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_S11E04_005": {
+        "utterance": "Oh, that's sweet, but today is all about you.",
+        "speaker": "HOWARD",
+        "context": [
+            "It feels like it wasn't that long ago",
+            "we were here doing this for Halley.",
+            "Cause it wasn't.",
+            "Which reminds me, before we leave,",
+            "let's get you a vasectomy."
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_S10E02_327": {
+        "utterance": "But I'm mad at him, too, so lemon bars it is.",
+        "speaker": "SHELDON",
+        "context": [
+            "Hi. Hello.",
+            "What are you doing?",
+            "Oh, Leonard's mad at me, so I'm making him lemon bars.",
+            "Does he even like lemon bars?",
+            "Not really."
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_S11E08_428": {
+        "utterance": "Well, that doesn't help at all.",
+        "speaker": "SHELDON",
+        "context": [
+            "Why did you tell Barry Kripke your idea?",
+            "This is all your fault.",
+            "No, it's your fault.",
+            "If you would've come to us in the beginning,",
+            "none of this would've happened.",
+            "Well, if it helps, you all behaved terribly",
+            "and you deserve what you got."
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_S09E04_074": {
+        "utterance": "How could Archie defeat Predator?",
+        "speaker": "HOWARD",
+        "context": [
+            "Have you seen this Archie comic?",
+            "It's actually Archie versus Predator."
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "2_553": {
+        "utterance": "No just, nobody press on my stomach.",
+        "speaker": "JOEY",
+        "context": [
+            "Well Joey, we're all .. we're all very proud of you.",
+            "Yes, I believe we can expect a call from the President any moment now.",
+            "Is there anything we can do for you?"
+        ],
+        "show": "FRIENDS",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_410": {
+        "utterance": "Leonard, may I present, live from New Delhi, Dr. and Mrs. V. M. Koothrappali.",
+        "speaker": "RAJ",
+        "context": [
+            "Do you really need the Honorary Justice League of American membership card?",
+            "It's been in every wallet I've owned since I was five.",
+            "Why?",
+            "It says, \"Keep this on your person at all times.\"",
+            "It's right here under Batman's signature.",
+            "and this is Leonard and Sheldon's apartment.",
+            "Guess whose parents just got broadband."
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_S12E07_443": {
+        "utterance": "I have no idea.",
         "speaker": "LEONARD",
         "context": [
-            "Wow, it's really coming down.",
-            "This sucks.",
-            "And there goes our hike.",
-            "Oh, not our hike!",
-            "Now we have",
-            "To stay safe and warm.",
-            "You know, we could still go.",
-            "A little rain isn't gonna kill us.",
-            "Have you been outside in the rain with sheldon?"
+            "The europium laser is so cool.",
+            "It has a four-level f-f transition",
+            "which provides for high power output,",
+            "and its quantum efficiency is off the charts.",
+            "What are you going to use it for?"
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_10810": {
+        "utterance": "I'll give you a plan right now. Step one: open comic book store. Step two: start rumor this comic book store gives you genital warts.",
+        "speaker": "SHELDON",
+        "context": [
+            "For starters, they shed and bite.",
+            "Hey, here's a thought.\r\nWhy don't we put up the rest of the money that Stuart needs?",
+            "So, we'd be, like, owners of a comic book store?",
+            "It's kind of a dream come true.",
+            "That does sound fun.",
+            "Ooh, maybe we could come up with a business plan to compete with this place."
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "2_326": {
+        "utterance": "Stick to the list.",
+        "speaker": "ROSS",
+        "context": [
+            "Ahh!",
+            "It wasn't on your list, but hopefully you'll think it's really fun.",
+            "A scooter!"
+        ],
+        "show": "FRIENDS",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_S11E11_077": {
+        "utterance": "I don't know.",
+        "speaker": "HOWARD",
+        "context": [
+            "Mm, I'm in. (gasps) Me, too.",
+            "It'll be nice to see the parts I missed while I was blinking.",
+            "Hey, guys, there's a change of plans.",
+            "We are having a party for Halley's birthday after all.",
+            "Turns out Bernadette and \"anyone who's not a heartless monster\"",
+            "thinks that's the right thing to do.",
+            "I don't like kids, but I do like birthday cake.",
+            "Oh, wait, will there be sugary icing flowers on it?"
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_2664": {
+        "utterance": "Terrific, it's just that... I don't think Penny wants me to go.",
+        "speaker": "LEONARD",
+        "context": [
+            "I don't think I can go to the North Pole.",
+            "I know you're concerned about disappointing me but I want you to take comfort from the knowledge that my expectations of you are very low.",
+            "Yeah, that's very comforting.",
+            "Comforting is a part of leadership.\r\nIt's not a part I care for, but such is my burden."
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_S10E09_194": {
+        "utterance": "with his other foot. Wha--?",
+        "speaker": "LEONARD",
+        "context": [
+            "What happened?",
+            "I tried to let go of anger",
+            "and threw a rock into my foot!",
+            "Then he got more angry and kicked the rock"
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_10004": {
+        "utterance": "And of those few months, how long have you been a demented sex pervert?",
+        "speaker": "SHELDON",
+        "context": [
+            "Well, I'm sure that, uh, you...\r\nhave a lot of questions.",
+            "Who was he?",
+            "His name is Ron.\r\nI met him at my prayer group.",
+            "How long have you been involved with him?",
+            "A few months."
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "2_291": {
+        "utterance": "Umm, would you please excuse me for a moment?",
+        "speaker": "ROSS",
+        "context": [
+            "I need to talk to you, it's pretty urgent. It's about Monica and Chandler.",
+            "Oh my God! Of course, of course."
+        ],
+        "show": "FRIENDS",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_3177": {
+        "utterance": "Not a great movie, but look at that beautiful desert.",
+        "speaker": "RAJ",
+        "context": [
+            "We did it. We have the west coast feed of hbo.",
+            "Ooh,real sex.",
+            "Big deal. Every time I watch that show, it's old women putting condoms on cucumbers.",
+            "All right,let's see what's on the east coast feed.",
+            "Dune."
+        ],
+        "show": "BBT",
+        "sarcasm": true,
+        "gender": "M"
+    },
+    "1_1478": {
+        "utterance": "Sadly, Mrs. Giselle Wolowitz is sensitive to chlorine. Lucky for her I like my fashion models pruny and bug-eyed.",
+        "speaker": "HOWARD",
+        "context": [
+            "Did I miss anything? Did they kick Giselle off?",
+            "Not yet, but her underwater photo shoot was an embarrassment."
         ],
         "show": "BBT",
         "sarcasm": false,
         "gender": "M"
     },
-    "2_241": {
-        "utterance": "Oh I do. Oh no, wait a minute, I took it out of my shirt when I put it on this morning.",
+    "2_113": {
+        "utterance": "No, no the actual cartoon character .. Of course the baloon.",
         "speaker": "CHANDLER",
         "context": [
-            "Damn, tail pipe's not hot enough to light this.",
-            "Relax ok? I can get this open, anybody got a coat hangar?"
+            "The most unbelievable thing has happened. Underdog has gotten away.",
+            "The baloon."
         ],
         "show": "FRIENDS",
         "sarcasm": false,
         "gender": "M"
     },
-    "1_S11E02_030": {
-        "utterance": "Really? You?",
-        "speaker": "SHELDON",
-        "context": [
-            "I'm being interviewed on public radio this Friday.",
-            "Oh, cool. How come?",
-            "Uh, the university is trying to get more funding",
-            "for the physics department,",
-            "so they want me to go out and talk it up."
-        ],
-        "show": "BBT",
-        "sarcasm": false,
-        "gender": "M"
-    },
-    "2_573": {
-        "utterance": "Oh I see, I thought you just really really liked your new couch.",
+    "2_24": {
+        "utterance": "Uh, okay. The fifth dentist caved and now they're all recommending Trident?",
         "speaker": "CHANDLER",
         "context": [
-            "Look I drew a sketch of how we are gonna do it ok? Rach, that's you, that's the couch",
-            "What's that?",
-            "Oh, that's me.",
-            "Wow! Certainly think a lot of yourself.",
-            "No, that's my arm."
+            "Dee, the sarcastic sister from What's Happening!!",
+            "Guys, guess what guess what guess what."
         ],
         "show": "FRIENDS",
         "sarcasm": false,
         "gender": "M"
     },
-    "1_3293": {
-        "utterance": "Leonard's work is nearly as amazing as third graders growing lima beans in wet paper towels.",
+    "2_461": {
+        "utterance": "Wow you look just like your son, Mrs. Tribbiani",
+        "speaker": "CHANDLER",
+        "context": [
+            "[Laughs]"
+        ],
+        "show": "FRIENDS",
+        "sarcasm": false,
+        "gender": "M"
+    },
+    "1_4031": {
+        "utterance": "In 1917, when Albert Einstein established the theoretic foundation for the laser in his paper <i>\"Zur Quantentheorie der</i> <i>Strahlung,\"</i> his fondest hope was that the resultant device be bitchin'.",
         "speaker": "SHELDON",
         "context": [
-            "I am.\r\nAre you interested in physics?",
-            "Oh, I find it fascinating. If I hadn't gone into microbiology, I probably would have gone into physics.\r\nOr ice dancing.",
-            "Actually, my tests of the Aharonov-Bohm quantum interference effect have reached an interesting point. Right now, we're testing the phase shift due to an electric potential.",
-            "That's amazing.",
+            "Happy now? I'm moving the dirty sock.",
+            "Thank you. Raj, keep an eye out for the other one.",
+            "Hey, guys, this is my friend Zack.",
+            "Hey.",
+            "Hello.",
+            "Whoa! Is that the laser? It's bitchin'.",
             "Yes."
         ],
         "show": "BBT",
         "sarcasm": false,
         "gender": "M"
     },
-    "1_182": {
-        "utterance": "No. The dark crescent-shaped patterns under your arms conceal it nicely.",
+    "1_S09E20_029": {
+        "utterance": "You may need this more than I do.",
         "speaker": "SHELDON",
         "context": [
-            "How do I look?",
-            "Could you be more specific?",
-            "Can you tell I'm perspiring a little?"
+            "Why are you pretending to be outdoors?",
+            "You hate it.",
+            "Hmm? Oh.",
+            "Amy showed me a compelling study",
+            "That demonstrated the cognitive benefit Of spending time in the wilderness.",
+            "Buddy, I am ready to drive you",
+            "Into the wilderness any time you want and leave you there.",
+            "Well, make your jokes, but some of the participants",
+            "Who spent four days in the woods away from all technology",
+            "Reported a 50% gain in reasoning skills upon their return.",
+            "Okay, if that's true, why aren't there more genius squirrels?"
         ],
         "show": "BBT",
         "sarcasm": false,
         "gender": "M"
     },
-    "2_410": {
-        "utterance": "If you wanna put a label on it.",
-        "speaker": "ROSS",
+    "1_6165": {
+        "utterance": "Yes, there's nothing quite like the slightly widened eyes of mildly startled.",
+        "speaker": "SHELDON",
         "context": [
-            "That's funny. Who are they?",
-            "The blond woman is my ex-wife, and the woman touching her is her... close, personal friend.",
-            "You mean they're lovers."
-        ],
-        "show": "FRIENDS",
-        "sarcasm": false,
-        "gender": "M"
-    },
-    "1_7575": {
-        "utterance": "You're right, the party's fantastic. Please, tell me more. I haven't heard enough about it all week because hearing about that never gets old!",
-        "speaker": "HOWARD",
-        "context": [
-            "It was a compromise. I lost.",
-            "Can you believe Stuart's walking around taking credit for this party?",
-            "Who cares?",
-            "What do you mean \"who cares\"? Look at what I pulled off here.\r\nThe deejay's on fire, there's a Tardis photo booth in the back room, and, oh, my God, the food!",
-            "Stuart wanted Kraft Draculoni and cheese."
+            "Okay, all right.",
+            "That one was clever.",
+            "Skeleton with phosphorous on a zip line.",
+            "Come on out, merry pranksters.",
+            "Take a bow.",
+            "You should've seen your face."
         ],
         "show": "BBT",
         "sarcasm": false,
         "gender": "M"
     },
-    "2_524": {
-        "utterance": "Yes and we are \"very\" excited about it.",
+    "2_187": {
+        "utterance": "That's so funny because you look more like Joey Tribbiani man slash woman.",
         "speaker": "CHANDLER",
         "context": [
-            "Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help put together my new furniture."
+            "And this from cry for help department, are you wearing makeup?",
+            "Yes I am, as of today, I am official Joey Tribbiani actor slash model."
         ],
         "show": "FRIENDS",
         "sarcasm": false,
         "gender": "M"
     },
-    "1_S11E06_410": {
-        "utterance": "You were a terrible waitress, and we still asked you to get us a snack.",
+    "1_S10E09_021": {
+        "utterance": "Oh, good, maybe he can build a nicer bridge to live under.",
+        "speaker": "SHELDON",
+        "context": [
+            "How much money did he win?",
+            "Over half a million dollars.",
+            "Wow. And he doesn't have to use it",
+            "for research, he can do whatever he wants with it."
+        ],
+        "show": "BBT",
+        "sarcasm": false,
+        "gender": "M"
+    },
+    "1_S12E19_143": {
+        "utterance": "Numb your brain with alcohol and watch a reality show where wealthy people pick fake arguments with each other?",
+        "speaker": "SHELDON",
+        "context": [
+            "This is so frustrating.",
+            "I can't believe the university expects us",
+            "to just sit back and do nothing.",
+            "Sweetie, you just need to relax. You know what I like to do?"
+        ],
+        "show": "BBT",
+        "sarcasm": false,
+        "gender": "M"
+    },
+    "1_S11E20_332": {
+        "utterance": "And alive?",
         "speaker": "HOWARD",
         "context": [
-            "Can you get us a little snack?",
-            "You sure you don't want your spy to do it?",
-            "What are you talking about?",
-            "You really don't trust me? You had to have Amy stop by?",
-            "We trust you. Yeah."
+            "Oh, uh, Sheldon's getting married in a month.",
+            "Oh!",
+            "Congratulations.",
+            "Yeah, I'm a married man myself.",
+            "Oh, really? Is she here?"
         ],
         "show": "BBT",
         "sarcasm": false,
         "gender": "M"
     },
-    "1_S09E20_354": {
-        "utterance": "No, I do, and that's why I hid it.",
+    "1_S11E05_156": {
+        "utterance": "My ride home with you was hellish.",
         "speaker": "LEONARD",
         "context": [
-            "Well, how much you got in there?",
-            "$6,427.00",
-            "$47 once my nana's birthday check gets here.",
-            "My god, leonard, do you know",
-            "What I could do with that kind of money?"
+            "She's going to be home at \"eight-ish.\" Like, when is that?",
+            "8:01? 8:02?",
+            "And what kind of scientist uses \"-ish\"?",
+            "I'll give it a go."
         ],
         "show": "BBT",
         "sarcasm": false,
         "gender": "M"
     },
-    "3_S06E01_417": {
-        "utterance": "-Almost a human.",
+    "1_S10E07_110": {
+        "utterance": "Oh. Well, j-just out of curiosity, what registers as odd to you",
+        "speaker": "HOWARD",
+        "context": [
+            "You're awful quiet, everything okay?",
+            "I'm concerned about Amy.",
+            "She's acting a bit odd lately."
+        ],
+        "show": "BBT",
+        "sarcasm": false,
+        "gender": "M"
+    },
+    "1_2614": {
+        "utterance": "Hardly a day goes by when I don't think about it.",
+        "speaker": "LEONARD",
+        "context": [
+            "You went to President Seibert's house in the middle of the night?",
+            "He didn't respond to my e-mail, his phone number is unlisted. Tell me what my other option was.",
+            "You could have waited until morning.",
+            "I know, look who I'm talking to.",
+            "Do you remember the grant proposal I submitted to the National Science Foundation to detect slow-moving monopoles at the magnetic North Pole?"
+        ],
+        "show": "BBT",
+        "sarcasm": false,
+        "gender": "M"
+    },
+    "1_9087": {
+        "utterance": "Why? Because I got an ugly, itchy sweater, and my brother got a car? No, I was her favorite.",
+        "speaker": "LEONARD",
+        "context": [
+            "Yup, oh... here you go.",
+            "Oh, thank you.",
+            "Here, get yourself an eraser for your troubles.",
+            "Oh-ho.\r\nI forgot about this. \r\nMy aunt made it for me when I started college.",
+            "Aw, did she hate you?"
+        ],
+        "show": "BBT",
+        "sarcasm": false,
+        "gender": "M"
+    },
+    "2_66": {
+        "utterance": "Nice jon Joe, you are quite the craftsman!",
+        "speaker": "CHANDLER",
+        "context": [
+            "What are you doing?",
+            "Key is stuck in the lock.",
+            "I could fix it hold on hold on, watch out watch out.",
+            "It still doesn't work!",
+            "I am not finished."
+        ],
+        "show": "FRIENDS",
+        "sarcasm": false,
+        "gender": "M"
+    },
+    "1_1803": {
+        "utterance": "- Maybe I heard you wrong. A lot of words sound like \"yoga.\"",
+        "speaker": "LEONARD",
+        "context": [
+            "Leonard. Come, join us.",
+            "Hey, Dave.\r\nAnd Penny, what a surprise.",
+            "Dave was just showing me around the university. This place is unbelievable!",
+            "I know, I've been offering to show you around for a year and a half. You always said you had yoga.",
+            "I never said that."
+        ],
+        "show": "BBT",
+        "sarcasm": false,
+        "gender": "M"
+    },
+    "2_92": {
+        "utterance": "No, no, I am just looking for a man to draw on me with chalk.",
+        "speaker": "CHANDLER",
+        "context": [
+            "Anybody know a good tailor?",
+            "You needs some clothes altered?"
+        ],
+        "show": "FRIENDS",
+        "sarcasm": false,
+        "gender": "M"
+    },
+    "1_3064": {
+        "utterance": "When I have enough to destroy all the human toast on the Battlestar known as Galactica.",
+        "speaker": "SHELDON",
+        "context": [
+            "When are you going to stop making Cylon toast?"
+        ],
+        "show": "BBT",
+        "sarcasm": false,
+        "gender": "M"
+    },
+    "1_S10E10_009": {
+        "utterance": "You know, I have always thought that this couch would look fantastic on the curb in front of the building.",
+        "speaker": "SHELDON",
+        "context": [
+            "If we're going to be staying in this apartment, would you be interested in doing a little redecorating?",
+            "Oh, actually, I would.",
+            "Great, what'd you have in mind?",
+            "Let's take every single thing from the other apartment and put it in here.",
+            "Well, how about we start a little smaller?",
+            "Like moving the furniture around."
+        ],
+        "show": "BBT",
+        "sarcasm": false,
+        "gender": "M"
+    },
+    "3_S01E05_417": {
+        "utterance": "Anything to do with \"error\" sounds like your whole vibe.",
         "speaker": "GILFOYLE",
         "context": [
-            " So, Dinesh thinks this is you?",
-            "Correct.",
-            "He's been messaging with it all day",
-            "and he has no idea it's an AI.",
-            "Well, we fooled a human.",
-            "I guess we just passed the Turing test."
+            "Dude, relax, okay?",
+            "We each ripped through a full module this morning.",
+            "We're just taking a little break.",
+            "DRM is now a thing of beauty.",
+            "- Wait. You did DRM? - Yeah.",
+            "I did DRM.",
+            "Why did you do DRM?",
+            "I said I would do DRM, you would do error handling."
         ],
         "show": "SV",
         "sarcasm": false,
         "gender": "M"
     },
-    "1_S11E19_030": {
-        "utterance": "Except for you, Sheldon. You're eating crow.",
-        "speaker": "RAJ",
+    "1_S12E02_385": {
+        "utterance": " And if not, swing by the chocolate factory and see if they're hiring.",
+        "speaker": "HOWARD",
         "context": [
-            "(stammers) What is happening?",
-            "Everybody's supposed to be eating Chinese food.",
-            "Well, actually, I believe the Chinese",
-            "may have invented the sandwich.",
-            "Their dish \"rou jia mo\" literally means",
-            "\"meat between bread.\"",
-            "So, it looks like all of us, including Penny, are eating Chinese food."
+            "Look, it's only a spray tan.",
+            "It'll fade in a couple days.",
+            "Why don't you cancel the date and reschedule?",
+            "Oh, but I was really looking forward to tonight.",
+            "You know what? Then go. Tell her what happened. - Maybe she'll be flattered."
         ],
         "show": "BBT",
         "sarcasm": false,
         "gender": "M"
     },
-    "2_345": {
-        "utterance": "Oh I left them in my bulldozer .. I don't have tools!",
-        "speaker": "CHANDLER",
-        "context": [
-            "It isnt working",
-            "We have to unscrew the chain",
-            "Hurry, I can't feel my ears",
-            "Can you ever feel your ears?",
-            "Interesting"
-        ],
-        "show": "FRIENDS",
-        "sarcasm": false,
-        "gender": "M"
-    },
-    "2_487": {
-        "utterance": "And Hornswoggle? What? Are you dating a character from \"Fraggle Rock\"? Ahh.",
-        "speaker": "CHANDLER",
-        "context": [
-            "I can't take it any more! So you win, okay? Pheebs? Flying a jet? Better make it a spaceship so that you can get back to your home planet! And Ross, phone call for you today. Tom Jones, he wants his pants back!"
-        ],
-        "show": "FRIENDS",
-        "sarcasm": false,
-        "gender": "M"
-    },
-    "2_151": {
-        "utterance": "Yeah, I mean, it would be rude to them for us to leave now.",
-        "speaker": "CHANDLER",
-        "context": [
-            "Yeah, I know, it's my birthday. We all should be here.",
-            "So, let's go.",
-            "Well maybe, you know, maybe we should stay for one song."
-        ],
-        "show": "FRIENDS",
-        "sarcasm": false,
-        "gender": "M"
-    },
-    "3_S01E06_266": {
-        "utterance": "She's attracted to ugliness.",
-        "speaker": "ERLICH",
-        "context": [
-            "- \"From the despair...\" - I just figured it out.",
-            "It all makes sense.",
-            "Figured what out?",
-            "Why Tara might be into you more than me."
-        ],
-        "show": "SV",
-        "sarcasm": false,
-        "gender": "M"
-    },
-    "2_287": {
-        "utterance": "Oh I am sorry, do you need a break?",
-        "speaker": "CHANDLER",
-        "context": [
-            "Oh wait stop! Stop! Stop!"
-        ],
-        "show": "FRIENDS",
-        "sarcasm": false,
-        "gender": "M"
-    },
-    "1_S09E18_357": {
-        "utterance": "Is there a switch on the back of his neck we don't know about?",
+    "1_S12E07_060": {
+        "utterance": "You sound like my wife just before she asked me to go to Coachella.",
         "speaker": "LEONARD",
         "context": [
-            "Hangon, What if Sheldon had no choice",
-            "but to be respectful?"
+            "(knocks) President Siebert, you wanted to see me?",
+            "Hey. There's my guy!"
         ],
         "show": "BBT",
+        "sarcasm": false,
+        "gender": "M"
+    },
+    "3_S04E05_313": {
+        "utterance": "When you have to apologise",
+        "speaker": "GILFOYLE",
+        "context": [
+            "I am so fucked. This girl is gonna kill me or get me killed.",
+            "Do tell.",
+            "So, she's super attractive, and she's super smart, and she's way into me,like way more than a normal person should be.",
+            "And sex! There's so much sex!",
+            "The problem is the part after."
+        ],
+        "show": "SV",
         "sarcasm": false,
         "gender": "M"
     },
@@ -610,106 +701,35 @@
         "sarcasm": false,
         "gender": "M"
     },
-    "1_S09E16_101": {
-        "utterance": "Relax, there's room for two babies in this group.",
-        "speaker": "LEONARD",
-        "context": [
-            "I'm, uh... (chuckles)",
-            "uh, gonna be a father.",
-            "That's so amazing. What? Congratulations.",
-            "Oh, no.",
-            "Why \"oh, no\"?",
-            "Because this changes everything.",
-            "What about comic book night?",
-            "Uh, what about playing games together?",
-            "What about our trips to Disneyland?",
-            "How can we do those things with a child around?"
-        ],
-        "show": "BBT",
-        "sarcasm": false,
-        "gender": "M"
-    },
-    "2_449": {
-        "utterance": "Oh no, now its not gonna make any sense",
+    "2_532": {
+        "utterance": "The Jamestown colony of Virginia. You see King George is giving us the land, so.",
         "speaker": "CHANDLER",
         "context": [
-            "Oh Oh car car.",
-            "Its Ross on one of his drives",
-            "What is he doing here?",
-            "He is saving your butt. Unless ofcourse I am stepping on some toes here, in which case I can just mosey on. I have plenty of people to help in the interstate."
+            "Rach rach, we gotta settle",
+            "Settle what?"
         ],
         "show": "FRIENDS",
         "sarcasm": false,
         "gender": "M"
     },
-    "1_S09E18_147": {
-        "utterance": "Great, so they own my idea for a T-shirt that says \"Dumb as a Bag of Geologists.\"",
-        "speaker": "SHELDON",
+    "2_3": {
+        "utterance": "And I think my testicles may be in here too",
+        "speaker": "CHANDLER",
         "context": [
-            "Well, what if we go around the university",
-            "and just get the patent ourselves?",
-            "We can't. It says on their Web site,",
-            "as long as we work there, they have",
-            "a controlling ownership of anything we come up with."
-        ],
-        "show": "BBT",
-        "sarcasm": false,
-        "gender": "M"
-    },
-    "1_11913": {
-        "utterance": "It's why my people wandered the desert for 40 years. Took that long to walk it off.",
-        "speaker": "HOWARD",
-        "context": [
-            "I don't think I've eaten that much in my entire life."
-        ],
-        "show": "BBT",
-        "sarcasm": false,
-        "gender": "M"
-    },
-    "1_427": {
-        "utterance": "Well, I'm sorry, too, but there's just no room for you in my wallet.",
-        "speaker": "SHELDON",
-        "context": [
-            "This is Dr. Sheldon Cooper.",
-            "Yeah, I need to cancel my membership to the planetarium."
-        ],
-        "show": "BBT",
-        "sarcasm": false,
-        "gender": "M"
-    },
-    "1_S12E06_412": {
-        "utterance": "That's what you said about the butterfly pavilion at the zoo.",
-        "speaker": "LEONARD",
-        "context": [
-            "Sheldon, you sure you're ready for this?",
-            "- This movie's pretty scary. - .",
-            "Please I'm an adult. I think I can handle it."
-        ],
-        "show": "BBT",
-        "sarcasm": false,
-        "gender": "M"
-    },
-    "2_406": {
-        "utterance": "For what? For letting you throw me out of your office?",
-        "speaker": "ROSS",
-        "context": [
-            "Hi. Look um, about what happened earlier...",
-            "No, hey, well, I-I completely understand. You were, you were stressed.",
-            "I was gonna give you a chance to apologise to me."
+            "Do you guys have any exta ribbon?",
+            "Oh yeah sure, what do you need? We got lace, satin, sateen, rafia, gingam , felt."
         ],
         "show": "FRIENDS",
         "sarcasm": false,
         "gender": "M"
     },
-    "1_536": {
-        "utterance": "Just the latest copy of Applied Particle Physics quarterly.",
-        "speaker": "SHELDON",
+    "2_170": {
+        "utterance": "The British are coming?",
+        "speaker": "CHANDLER",
         "context": [
-            "Hey Sheldon.",
-            "Hello Penny.",
-            "Get anything good?"
+            "Hey you guys, guess what?"
         ],
-        "show": "BBT",
+        "show": "FRIENDS",
         "sarcasm": false,
         "gender": "M"
     }
