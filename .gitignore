@@ -1,3 +1,17 @@
+# Video Files
+Videos/
+*.mp4
+
+# Audio Files
+Audios/
+*.wav
+
+# Embedding Files
+*.npy
+
+# Files to ignore
+.DS_Store
+
 #DEEP LEARNING MODELS
 *.pth
 
