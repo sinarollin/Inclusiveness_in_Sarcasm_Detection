@@ -47,9 +47,9 @@ def train_epoch(model, optimizer, criterion, metrics, dataloader, device):
 
     for batch in tqdm(dataloader):
         # Move batch to device
-        input_ids = batch[0].to(device)
-        attention_mask = batch[1].to(device)
-        labels = batch[2].to(device)
+        input_ids = batch['input_ids'].to(device)
+        attention_mask = batch['attention_mask'].to(device)
+        labels = batch['sarcasm'].to(device)
 
         optimizer.zero_grad()  # Zero the gradients
 
@@ -123,9 +123,9 @@ def evaluate(model, criterion, metrics, dataloader, device):
     with torch.no_grad():
         for batch in tqdm(dataloader):
             # Move batch to device
-            input_ids = batch[0].to(device)
-            attention_mask = batch[1].to(device)
-            labels = batch[2].to(device)
+            input_ids = batch['input_ids'].to(device)
+            attention_mask = batch['attention_mask'].to(device)
+            labels = batch['sarcasm'].to(device)
 
             # Forward pass
             outputs = model(input_ids, attention_mask=attention_mask)

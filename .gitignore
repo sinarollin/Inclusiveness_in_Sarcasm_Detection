@@ -4,6 +4,9 @@
 # Hyperparameter tuning plots
 hyperparameter_tuning/
 
+# Debugging files
+debugging/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
