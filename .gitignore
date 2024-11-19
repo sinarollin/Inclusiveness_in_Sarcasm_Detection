@@ -14,6 +14,7 @@ Audios/
 
 #DEEP LEARNING MODELS
 *.pth
+*.pkl
 
 # Hyperparameter tuning plots
 hyperparameter_tuning/
